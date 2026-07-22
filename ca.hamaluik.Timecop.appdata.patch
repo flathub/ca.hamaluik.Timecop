@@ -1,0 +1,11 @@
+--- a/timecop/ca.hamaluik.Timecop.appdata.xml
++++ b/timecop/ca.hamaluik.Timecop.appdata.xml
+@@ -12,7 +12,7 @@
+ 		<control>keyboard</control>
+ 	</recommends>
+ 	<developer_name>Kenton Hamaluik</developer_name>
+-	<url type="homepage">https://timecop.app/en/</url>
++	<url type="homepage">https://github.com/hamaluik/timecop</url>
+ 	<url type="bugtracker">https://github.com/hamaluik/timecop</url>
+ 
+ 	<description>

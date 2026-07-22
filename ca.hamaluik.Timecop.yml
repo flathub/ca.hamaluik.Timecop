@@ -39,3 +39,5 @@ modules:
         url: https://github.com/hamaluik/timecop/releases/download/v1.8.0/timecop-linux-aarch64.tar.xz
         sha256: cf376f25cde81d5299c4f543eee15380450470512630ae28697557ddea77bd47
         dest: "timecop"
+      - type: patch
+        path: ca.hamaluik.Timecop.appdata.patch
